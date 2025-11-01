@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+.env
+.DS_Store
+venv/
+.idea/
+.vscode/
+*.h5
+*.zip
+*.log
+dataset/
+logs/
+models/
