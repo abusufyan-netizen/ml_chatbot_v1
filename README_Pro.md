@@ -1,15 +1,13 @@
-# Digit Recognition AI
+# 🤖 Digit Recognition AI (Professional)
 
-A professional machine learning project for handwritten digit recognition using TensorFlow, Streamlit, and scikit-learn.
+**Author:** Abu Sufyan – Student
 
-## Features
-- Real-time digit recognition
-- Model retraining and Drive backup
-- Streamlit web interface
-- Modular architecture
+## Overview
+This repository contains a Streamlit-based digit recognition system with feedback-driven self-learning and Google Drive backup utilities.
 
-## Setup
-Refer to `setup.md` for installation and usage.
+## Quick start
+1. Install requirements: `pip install -r requirements.txt`
+2. Run: `streamlit run app.py`
 
----
-© 2025 Abu Sufyan – Student Project
+## Backup & Drive
+On first run, upload your `credentials/credentials.json` via Drive Settings page to enable backups.
